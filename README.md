@@ -35,7 +35,7 @@ student-management/
 
 1. **Clone or Download the Project**
    ```bash
-   git clone https://github.com/darkspace123098/student-management.git
+   git clone https://github.com/irshadali313/student-management.git
    cd student-management
    ```
 
