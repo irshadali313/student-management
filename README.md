@@ -126,5 +126,9 @@ Developed by: **Irshad Ali**
 
 [Firecode](https://firecode.ezyro.com)
 
+## 🌐 Live Demo
+
+[Click here to view the live website](https://yourname.github.io/student-management)
+
  
 
