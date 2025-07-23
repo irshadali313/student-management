@@ -128,7 +128,7 @@ Developed by: **Irshad Ali**
 
 ## 🌐 Live Demo
 
-[Click here to view the live website](https://yourname.github.io/student-management)
+[Click here to view the live website](https://irshadali313.github.io/student-management/)
 
  
 
